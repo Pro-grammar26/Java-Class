@@ -1,0 +1,5 @@
+DATA TYPES
+
+color = green
+birthday = November
+time(hr) = 2
