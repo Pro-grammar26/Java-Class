@@ -1,5 +1,5 @@
 DATA TYPES
 
-color = green
-birthday = November
-time(hr) = 2
+color = green; // When assigning green to the datatype color, the outcome will always be green when using the data color
+birthday = November // When assigning November to the datatype birthday, the outcome will always be November when using the data birthday
+time(hr) = 2 // When assigning 2 to the datatype time(hr), the outcome will always be 2 hours when using the data time
