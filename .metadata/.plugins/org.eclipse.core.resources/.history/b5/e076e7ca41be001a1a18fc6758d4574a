@@ -1,0 +1,14 @@
+
+public class Arithmatics {
+
+	int x = 20;
+	int y = 30;
+	
+	static int addition = x+y;
+	int Multilplication = x*y;
+	
+	public static void main(String[] args) {
+		System.out.println("20 + 30" + addition);
+	}
+	
+}

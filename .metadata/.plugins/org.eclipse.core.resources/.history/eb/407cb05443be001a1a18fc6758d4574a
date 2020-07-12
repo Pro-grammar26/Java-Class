@@ -1,0 +1,14 @@
+
+public class Arithmatics {
+
+	int x = 20;
+	int y = 20;
+			
+	int add = x+y;
+	int Multiply = x*y;
+	
+	public void main(String[] args0) {
+		System.out.println("adding them will make" + add);
+	}
+	
+}

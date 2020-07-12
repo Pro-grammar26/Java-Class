@@ -1,0 +1,11 @@
+
+public class Arithmatics {
+
+	int x = 20;
+	int y = 30;
+	
+	public static void main(String[] args) {
+		System.out.println("20 + 30");
+	}
+	
+}
