@@ -1,6 +1,6 @@
 
 public class Arithmetics {
-
+	
 	static int x = 20;
 	static int y = 30;
 
@@ -11,5 +11,4 @@ public class Arithmetics {
 		System.out.println("multiplying them will make: " + multiply);
 
 	}
-
 }
