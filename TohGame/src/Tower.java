@@ -2,8 +2,8 @@
 public class Tower {
 String name;
 	
-	public void drawLine() {
-		System.out.println("will be drawing tower:");
+	public void drawSpace() {
+		System.out.println(" ");
 	}
 	
 	public void draw() {
@@ -18,10 +18,10 @@ String name;
 	}
 	
 	public void drawBase() {
-		
+		System.out.println("-----------------");
 	}
 	
 	void drawTitle() {
-		
-	}
+		System.out.println("     "+ name);
+	}     
 }
