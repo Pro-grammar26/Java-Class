@@ -24,22 +24,25 @@ String name;
 	} 
 	
 	public void draw() {
+	
 		drawPole();
-	}
-	
-	//Draw small pole
-	
-	Disk small = new Disk(4);
 	
 	
-	
+		//Draw small pole
+		Disk small = new Disk(4); 
+		small.draw();
+
+
 	//Draw medium pole
 	Disk medium = new Disk(8);
-	
+		medium.draw();
 		
 		
 	//Draw large pole
 	Disk large = new Disk (12);
-		
+		large.draw();
+	
+	
+	}
 	
 }
